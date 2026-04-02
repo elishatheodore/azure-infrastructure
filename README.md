@@ -12,6 +12,7 @@
 - Network Security Group (SSH hardened)
 
 ## 📐 Architecture
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c1f1033d-be1e-49b5-9e90-5ea8b2a57283" />
 
 - `VM Subnet` hosts compute VMs
 - `DB Subnet` reserved for database/internal nodes
