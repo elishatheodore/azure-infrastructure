@@ -28,7 +28,6 @@
 - `scripts/`
   - `deploy.sh`
   - `destroy.sh`
-- `docs/` (diagram)
 - `README.md`
 
 ## ⚡ Prerequisites
